@@ -123,3 +123,12 @@ footer a {
 footer a:hover {
   color: var(--cor-principal);
 }
+.galeria {
+              display: flex;
+              justify-content: space-around; 
+              gap: 10px;                                         
+      }
+      .galeria img {
+                            width: 40%; 
+                             height: auto;
+}
